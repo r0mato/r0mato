@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=r0mato&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Apprentice%20%7C%20Bug%20Bounty%20Hunter%20%7C%20Pentester&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=r0mato&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Apprentice%20%7C%20Bug%20Bounty%20Hunter%20%7C%20Pentester&descAlignY=58&descSize=18" />
 
 <a href="#">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2C5364&center=true&vCenter=true&width=650&lines=Breaking+things+to+build+them+stronger;Bug+Bounty+Hunter+%7C+Web+%26+API+Pentesting;OWASP+Top+10+%7C+Recon+%7C+Exploitation;Currently+finishing+my+Cybersecurity+Master's" alt="Typing SVG" />
