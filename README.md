@@ -66,8 +66,7 @@ Advertencia: contiene niveles peligrosos de curiosidad y café.
 ![Followers](https://img.shields.io/github/followers/r0mato?style=for-the-badge&color=64FFDA&labelColor=1A1A2E&logo=github&logoColor=64FFDA)
 ![Stars](https://img.shields.io/github/stars/r0mato?style=for-the-badge&color=64FFDA&labelColor=1A1A2E&logo=github&logoColor=64FFDA)
 ![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/r0mato&label=Repos&query=public_repos&color=64FFDA&style=for-the-badge&labelColor=1A1A2E&logo=github&logoColor=64FFDA)
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=r0mato&hide_border=true&background=0A0E27&border=64FFDA&ring=64FFDA&fire=B388FF&currStreakLabel=64FFDA&sideLabels=C9D1D9&currStreakNum=64FFDA&sideNums=C9D1D9&dates=808080" />
+![Commits](https://img.shields.io/github/commit-activity/y/r0mato/r0mato?style=for-the-badge&color=B388FF&labelColor=1A1A2E&logo=github&logoColor=B388FF)
 
 </div>
 
