@@ -10,7 +10,7 @@
 
 <img src="https://media.giphy.com/media/MmNS0GiYJf7rx8cZHO/giphy.gif" width="150" alt="based operations" />
 <img src="https://media.giphy.com/media/jDrx3CEmw2iS2TkB3G/giphy.gif" width="150" alt="access granted" />
-<img src="https://media.giphy.com/media/1is4K4y0oWyyGnWTSh/giphy.gif" width="150" alt="system online" />
+<img src="https://media.giphy.com/media/dE8jD0O1gnoYGDU7uY/giphy.gif" width="150" alt="main character" />
 
 <sub>Yo, mi setup y mi ansiedad social, todo en una fila</sub>
 
