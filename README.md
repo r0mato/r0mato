@@ -3,17 +3,17 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,50:16213E,100:0F3460&height=220&section=header&text=r0mato&fontSize=70&fontColor=64FFDA&fontAlignY=38&desc=Bug%20Bounty%20Hunter%20%7C%20Pentester%20Web%20%7C%20Ciberseguridad&descAlignY=58&descSize=18" />
 
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=64FFDA&background=00000000&center=true&vCenter=true&width=650&lines=whoami;%3E+Pentester+profesional+(y+cazador+de+memes);%3E+99+bugs+en+el+c%C3%B3digo...+99+bugs;%3E+sudo+rm+-rf+malas_practicas%2F;%3E+Compilando+caf%C3%A9..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=64FFDA&background=00000000&center=true&vCenter=true&width=650&lines=whoami;%3E+Pentester+profesional+(y+cazador+de+memes);%3E+99+bugs+en+el+c%C3%B3digo...+99+bugs;%3E+sudo+rm+-rf+malas_practicas%2F;%3E+Compilando+caf%C3%A9...;%3E+git+commit+-m+%22funciona%2C+no+preguntes+por+qu%C3%A9%22" alt="Typing SVG" />
 </a>
 
-</div>
+<br/>
 
----
+<img src="https://media.giphy.com/media/MmNS0GiYJf7rx8cZHO/giphy.gif" width="150" alt="based operations" />
+<img src="https://media.giphy.com/media/jDrx3CEmw2iS2TkB3G/giphy.gif" width="150" alt="access granted" />
+<img src="https://media.giphy.com/media/1is4K4y0oWyyGnWTSh/giphy.gif" width="150" alt="system online" />
 
-<div align="center">
-<img src="https://media.giphy.com/media/MmNS0GiYJf7rx8cZHO/giphy.gif" width="420" alt="based operations" />
+<sub>Yo, mi setup y mi ansiedad social, todo en una fila</sub>
 
-<sub>Así es como me imagino a mí mismo cuando arranco Burp Suite</sub>
 </div>
 
 ---
@@ -34,6 +34,7 @@ Advertencia: contiene niveles peligrosos de curiosidad y café.
 - 🎯 Especializado en **Pentesting Web**, **OWASP Top 10** y **Bug Bounty**
 - 🧠 Aprendiendo técnicas avanzadas de explotación y seguridad cloud
 - ☕ Combustible: cafeína y `403 Forbidden` que se niegan a seguir siéndolo
+- 🐛 Relación con los bugs: complicada, pero les tengo cariño
 - ⚡ Fun fact: prefiero encontrar el bug antes que arreglarlo (que le den a la QA)
 
 ---
