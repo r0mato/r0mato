@@ -19,8 +19,7 @@ jobs:
         with:
           github_user_name: r0mato
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=00ff41&color_dots=0d1117,033a16,057a2b,0be23c,39ff6a
 
       - name: Push output to output branch
         uses: crazy-max/ghaction-github-pages@v4
