@@ -58,22 +58,13 @@ Always learning, always breaking things responsibly.
 
 ---
 
-### 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=r0mato&theme=matrix&no-frame=true&margin-w=10&row=1&column=6" />
-
-</div>
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=r0mato&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&border_color=00FF41" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0mato&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&border_color=00FF41" />
+![Followers](https://img.shields.io/github/followers/r0mato?style=for-the-badge&color=00FF41&labelColor=000000&logo=github&logoColor=00FF41)
+![Stars](https://img.shields.io/github/stars/r0mato?style=for-the-badge&color=00FF41&labelColor=000000&logo=github&logoColor=00FF41)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/r0mato&label=Repos&query=public_repos&color=00FF41&style=for-the-badge&labelColor=000000&logo=github&logoColor=00FF41)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=r0mato&hide_border=true&background=0D1117&border=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=C9D1D9&currStreakNum=00FF41&sideNums=C9D1D9&dates=808080" />
 
